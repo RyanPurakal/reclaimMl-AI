@@ -1,0 +1,14 @@
+# Data processing & ML
+pandas
+numpy
+scikit-learn
+
+# API
+fastapi
+uvicorn
+
+# Dashboard
+streamlit
+
+# Optional, if plotting or additional utils are used
+matplotlib
